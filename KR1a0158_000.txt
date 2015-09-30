@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易象大意存解
-#+DATE: 2015-09-23 09:35:44
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:00:52.766818
+#+PROPERTY: ID KR1a0158
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0158_WYG_000-1a>¶
 欽定四庫全書　　　　　經部一¶
 　易象大意存解　　　　　易類¶
@@ -29,6 +31,7 @@
 　　　　恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 讀易要言
 <pb:KR1a0158_WYG_000-3a>¶
 　　讀易要言¶
 易書原于象畫象畫者文辭之祖今經生治易專恃研¶
@@ -59,4 +62,3 @@
 <pb:KR1a0158_WYG_000-4b>¶
 傳繫辭文言其文法之顯然可愛玩者亦畧示精藴於¶
 語言意象之外抑亦宜民不倦之意云爾¶
-

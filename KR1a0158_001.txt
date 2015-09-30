@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易象大意存解
-#+DATE: 2015-09-23 09:35:44
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:00:52.787678
+#+PROPERTY: ID KR1a0158
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 易象大意存解
 <pb:KR1a0158_WYG_001-1a>¶
 欽定四庫全書¶
 　易象大意存解¶
@@ -938,4 +940,3 @@
 　¶
 　¶
 　易象大意存解¶
-
